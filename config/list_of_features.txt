@@ -1,0 +1,107 @@
+### this file contains a list of features we will use to create a feature matrix
+
+# you can have blank lines and also write comments with '#'
+# feature/column may contain spaces but no other special characters.
+
+latest_rating # Review given to restaurant in the most recent visit by user 
+user_review_count # number of reviews given to a particular restaurant by the user 
+date_of_last_review # by that user
+price_range
+average_rating # of the restaurant
+review_count # total number of reviews the restaurant has
+
+# Cities
+Phoenix
+Las Vegas
+Madison
+Waterloo
+Edinburgh
+
+# Ambiences
+divey
+classy
+touristy
+hipster
+trendy
+intimate
+casual
+romantic
+upscale
+
+# Types of cuisines / categories
+Chicken Wings
+African
+American (New)
+American (Traditional)
+Arts & Entertainment
+Asian Fusion
+Bakeries
+Barbeque
+Bars
+Beer, Wine & Spirits
+Bistros
+Breakfast & Brunch
+Breweries
+British
+Buffets
+Burgers
+Cafes
+Caribbean
+Casinos
+Caterers
+CentralAndEasternEuropean
+Cheesesteaks
+Chinese
+Coffee & Tea
+Comfort Food
+ComfortFood
+Creperies
+Delis
+Desserts
+Diners
+Ethnic Food
+Event Planning & Services
+Fast Food
+Food
+French
+Gastropubs
+Gluten-Free
+Grocery
+Halal
+Hawaiian
+Hot Dogs
+Hotels
+Ice Cream
+Indian
+Italian
+Japanese
+Juice Bars & Smoothies
+Karaoke
+Korean
+Kosher
+Latin American
+Leisure
+Lounges
+Meat Shops
+Mediterranean
+Mexican
+Middle Eastern
+Misc
+Modern European
+Nightlife
+On-the-go
+Pizza
+Salad
+Sandwiches
+Seafood
+Shopping
+Soup
+SouthEastAsia
+Southern
+Spanish
+Specialty Food
+Steakhouses
+Thai
+Vegetarian
+Vietnamese
+Wine Bars
