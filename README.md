@@ -1,4 +1,4 @@
 finalproject
 ============
 
-Machine Learning Project - Kunal, Gautam, and Neeral 
+Machine Learning Project - Kunal and Neeral 
